@@ -133,8 +133,6 @@ Visit:
 
 ---
 
-If you don't have 15 GitHub Commits — then follow this Guide: [GitHub-Commits-Zama](https://github.com/hassan272jb/GitHub-Commits-Zama)
-
 ---
 
 ## 📍 Join our Telegram Community  
